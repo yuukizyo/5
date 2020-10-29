@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1267
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointWebAddIn5", "PowerPointWebAddIn5\PowerPointWebAddIn5.csproj", "{DDFC3320-C67E-4253-90AA-38C61A6B002E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerPointWebAddIn5Web", "PowerPointWebAddIn5Web\PowerPointWebAddIn5Web.csproj", "{72BBC1C3-30FA-4AFC-B9A4-A2324195EAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDFC3320-C67E-4253-90AA-38C61A6B002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDFC3320-C67E-4253-90AA-38C61A6B002E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDFC3320-C67E-4253-90AA-38C61A6B002E}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DDFC3320-C67E-4253-90AA-38C61A6B002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDFC3320-C67E-4253-90AA-38C61A6B002E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDFC3320-C67E-4253-90AA-38C61A6B002E}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{72BBC1C3-30FA-4AFC-B9A4-A2324195EAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72BBC1C3-30FA-4AFC-B9A4-A2324195EAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72BBC1C3-30FA-4AFC-B9A4-A2324195EAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72BBC1C3-30FA-4AFC-B9A4-A2324195EAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF494CD5-955B-4E66-9143-1FAEF8127FD1}
+	EndGlobalSection
+EndGlobal
