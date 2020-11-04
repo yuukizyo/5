@@ -22,7 +22,7 @@
   <!-- アドインのアイコン。インストール画面やアドイン ダイアログで使います。 -->
   <IconUrl DefaultValue="~remoteAppUrl/Images/Button32x32.png" />
 
-  <SupportUrl DefaultValue="https://github.com/yuukizyo/nobi.git" />
+  <SupportUrl DefaultValue="http//www.tanakaken.uk/fukue/public.html/nnn" />
   <!-- ナビゲーションで許可されるドメイン。たとえば、ShowTaskpane を使った href リンクによるナビゲーションは、ドメインがこの一覧に含まれている場合にのみ許可されます。 -->
   <AppDomains>
     <AppDomain>AppDomain1</AppDomain>
